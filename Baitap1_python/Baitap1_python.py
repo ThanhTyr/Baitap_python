@@ -6,7 +6,7 @@ def bai1():
             if x % 5 != 0:
                 print(x,',',end = '')
 
-# bài 2 
+# bài 2 #Thanh ty
 print(' Nhap so can tinh giai thua :', end = '')
 n = int(input())
 def bai2():
